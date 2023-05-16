@@ -1,6 +1,6 @@
 # World Cup Game Updates Stomp Client-Server
 
-This project is a Stomp (Streaming Text Oriented Messaging Protocol) client-server application that provides real-time updates on World Cup game events. The game events are provided in JSON format. The client is implemented in C++, while the server is implemented in Java. The server supports two types of server architectures: TPC (Transmission Control Protocol) and Reactor.
+This project is a Stomp (Streaming Text Oriented Messaging Protocol) client-server application that provides real-time updates on World Cup game events. The game events are provided in JSON format. The client is implemented in C++, while the server is implemented in Java. The server supports two types of server architectures: TPC (Thread-Per-Client) and Reactor.
 
 ## Features
 
